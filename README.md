@@ -15,7 +15,7 @@ We have train (8523) and test (5681) data set, train data set has both input and
 
 Train file: CSV containing the item outlet information with sales value
 
-Variable	Description
+Variable	Description 
 Item_Identifier	Unique product ID
 Item_Weight	Weight of product
 Item_Fat_Content	Whether the product is low fat or not
